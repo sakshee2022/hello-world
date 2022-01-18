@@ -4,3 +4,4 @@ hello master new master
 
 hello master hello bug newBug
 
+function local for push
